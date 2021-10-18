@@ -1,4 +1,4 @@
-import http from "../http-common";
+import http from "../src/http-common";
 
 class TutorialDataService {
   getAll() {
